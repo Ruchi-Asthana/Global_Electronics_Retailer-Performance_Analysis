@@ -3,10 +3,10 @@
 ## Project Overview:
 
 This project focuses on designing an end‑to‑end Power BI analytics solution for a global electronics retailer.
-The goal is to transform raw transactional, product, and customer data into interactive dashboards that uncover 
-sales trends, product performance, customer behavior, and strategic business insights.
-The project involves performing a complete data analysis lifecycle—data cleaning, modeling, DAX calculations, 
-visualization, and insight generation—while converting each analytical requirement into actionable components of the dashboard.
+The goal is to transform raw transactional, product and customer data into interactive dashboards that uncover 
+sales trends, product performance, customer behaviour and strategic business insights.
+The project involves performing a complete data analysis lifecycle: data cleaning, modeling, DAX calculations, 
+visualization, and insight generation; while converting each analytical requirement into actionable components of the dashboard.
 
 ## Key Actions & Analytical Objectives
 
