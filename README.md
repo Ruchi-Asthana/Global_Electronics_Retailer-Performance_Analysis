@@ -39,3 +39,17 @@ visualization, and insight generation—while converting each analytical require
 * Add slicers and filters for Region, Category and Year to make the dashboard fully interactive.
 
 * Generate actionable business insights based on trends observed in sales, customers, products, and regions.
+
+## Highlights
+
+This Power BI project delivers a comprehensive analysis of the global electronics retailer’s performance across sales, products, customers, and regions. The dashboards consolidate six years of data (2016–2021) to uncover trends, highlight growth drivers, and identify operational bottlenecks.
+
+The Sales Performance Dashboard reveals a strong upward trajectory from 2017 to a peak in 2019, followed by a sharp decline during the Covid‑19 period. Total revenue reached 55.76M, supported by 26,326 orders, 197,757 units sold, and a total profit of 32.6M. December consistently emerged as the busiest month, with 21 December 2019 being the highest‑volume day.
+
+Product analysis shows Computers and Home Appliances dominating revenue and profit, contributing over 54% of total sales. The top‑selling products generated between 437K–505K in sales, while all the bottom performers generated less than 30 dollars in sales, indicating clear inventory optimization opportunities.
+
+Customer segmentation highlights 15,266 active customers, with Medium‑Value customers contributing 66% of total revenue. High‑Value customers, though fewer, show significantly higher spend patterns, with top customers exceeding 40K–60K in lifetime value.
+
+Regional analysis identifies California, Texas, Ontario, and New York as high‑revenue markets, while states like Freistaat Bayern show high AOV but lower sales volume—signaling untapped potential.
+
+Interactive slicers for region, category, and year enable stakeholders to explore performance drivers dynamically and make informed decisions across marketing, inventory, and customer strategy.
